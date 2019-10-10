@@ -18,5 +18,6 @@ public class MyFirstProject {
     public void afterTest() {
         System.out.println("After Test");
         System.out.println("Second Line");
+        System.out.println("Third Line");
     }
 }
